@@ -19,3 +19,16 @@ var i = Int(g) + h
 print(i)
 
 print(g > 2)
+
+//Bool
+print (1 == 1)
+print(1 != 1)
+print(1 == 1.0)
+print(1 == 1.1)
+print("a" == "a")
+print("a" != "a")
+print("a" > "b")
+print("a" == "b")
+print("210" > "20")
+print(Int("210")! > 20)
+print(Int("210"))
